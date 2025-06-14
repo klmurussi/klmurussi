@@ -241,11 +241,9 @@ Física para jogos, game design, desenvolvimento mobile, produção de jogos ind
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="25" height="25" /> Contribuições
 
-<div align="center" class="contributions-container">  
-  <!-- Adicionar um gráfico 3D de contribuições -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=klmurussi&theme=radical&hide_border=true" alt="Estatísticas de sequência do GitHub" class="contrib-stats" />
-  <!-- Mostrar contribuições incluindo privadas -->
-  <img src="https://github-readme-stats.vercel.app/api?username=klmurussi&show_icons=true&hide_border=true&title_color=f65aec&icon_color=F8D866&text_color=9f9f9f&bg_color=0d1117&count_private=true&include_all_commits=true" alt="Contribuições incluindo privadas" class="contrib-stats" />
+<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=klmurussi&theme=radical&hide_border=true" alt="Estatísticas de sequência do GitHub" style="max-width: 100%; height: auto;" />
+    <img src="https://github-readme-stats.vercel.app/api?username=klmurussi&show_icons=true&hide_border=true&title_color=f65aec&icon_color=F8D866&text_color=9f9f9f&bg_color=0d1117&count_private=true&include_all_commits=true" alt="Contribuições incluindo privadas" style="max-width: 100%; height: auto;" />
 </div>
 
 ---
