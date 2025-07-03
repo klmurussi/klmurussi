@@ -17,17 +17,9 @@
 
 <br/>
 
----
+Amante de animes, coisas fofas e tecnologia! ✨
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Woman%20Technologist.png" alt="Woman Technologist" width="30" height="30" /> Sobre mim
-
-Amante de animes, coisas fofas e tecnologia! ✨ Sempre busco trazer um toque de criatividade e carinho para tudo o que desenvolvo — do brainstorm ao deploy.
-
-<p>💻 Estudante de Engenharia de Software, apaixonada por desenvolvimento backend e inteligência artificial.
-<p>🎨 Frontend e UI/UX? Eu aturo com carinho (e uma pitada de caos controlado).
-<p>🧩 Gosto também das etapas de levantamento de requisitos, arquitetura de software e documentação. O motivo é porque quando tudo está organizado, as coisas simplesmente andam.
-<p>🤖 Atualmente faço parte de uma equipe de robótica, atuando na área de visão computacional nos projetos de robôs autônomos jogadores de futebol.
-<p>🎯 Em busca de oportunidades como estagiária ou dev júnior para crescer, colaborar e aprender cada vez mais. 
+Meu github é basicamente pequenos projetos que usei para aprender novas tecnologias, trabalhos da faculdade ou... apenas diversão!
 
 ---
 
